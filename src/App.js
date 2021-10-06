@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <img src={ colts } alt="indy colts" />
+        <img src={ colts } width="800" alt="indy colts" />
       </header>
     </div>
   );
